@@ -9,4 +9,17 @@ This is a simple weather application built using **HTML**, **CSS**, and **JavaSc
 
 ![222](https://github.com/user-attachments/assets/4988f54d-c6d8-40ca-971e-575614c79b92)
 
-🌐 [View the Live Site] 
+🌐 [View the Live Site]   https://ayushgittt.github.io/Task-6_Internship/
+
+---
+## 🛠️ Features
+
+- Search weather by city
+- Real-time temperature and condition updates
+- Responsive design for mobile and desktop
+
+---
+## 🚢 Hosting with GitHub Pages
+
+This project is hosted as a **static website** using GitHub Pages.  
+No server or backend is required.
